@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Builder
 
 A production-ready, AI-powered resume optimization platform built with React, Firebase, and Google's Gemini API. Get instant ATS scores, personalized improvement suggestions, and job opportunity recommendations.
@@ -293,3 +294,6 @@ For issues, questions, or suggestions:
 ---
 
 **Built with ❤️ to help job seekers land their dream roles**
+=======
+# AI_Resume_Builder
+>>>>>>> d0c544cea46f60f699a6a568ca0900a049d48d60
